@@ -7,32 +7,31 @@ export const HomePage = () => {
         <div className='directory-menu'>
             <div className='menu-item'>
                 <div className='content'>
-                    <h1 className='title'>Hats</h1>
+                    <h1 className='title'>HATS</h1>
                     <span className='subtitle'>ShopNow</span>
                 </div>
-            </div>
-            
+            </div>    
             <div className='menu-item'>
                 <div className='content'>
-                    <h1 className='title'>Jackets</h1>
-                    <span className='subtitle'>ShopNow</span>
-                </div>
-            </div>
-            <div className='menu-item'>
-                <div className='content'>
-                    <h1 className='title'>Snikkers</h1>
+                    <h1 className='title'>JACKETS</h1>
                     <span className='subtitle'>ShopNow</span>
                 </div>
             </div>
             <div className='menu-item'>
                 <div className='content'>
-                    <h1 className='title'>Womens</h1>
+                    <h1 className='title'>SNIKKERS</h1>
                     <span className='subtitle'>ShopNow</span>
                 </div>
             </div>
             <div className='menu-item'>
                 <div className='content'>
-                    <h1 className='title'>Mens</h1>
+                    <h1 className='title'>WOMENS</h1>
+                    <span className='subtitle'>ShopNow</span>
+                </div>
+            </div>
+            <div className='menu-item'>
+                <div className='content'>
+                    <h1 className='title'>MENS</h1>
                     <span className='subtitle'>ShopNow</span>
                 </div>
             </div>
